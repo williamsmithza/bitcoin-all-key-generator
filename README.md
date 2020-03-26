@@ -1,11 +1,15 @@
 bitcoin-all-key-generator
 =========================
 
-###### Clone git clone https://github.com/williamsmithza/bitcoin-all-key-generator.git
+###### Clone "git clone https://github.com/williamsmithza/bitcoin-all-key-generator.git"
 
 ###### directory.io without the latency
 
 ##### [Install Go](http://golang.org/doc/install)
+
+sudo apt install golang-go
+
+test installation "go version"
 
 ##### Install dependencies:
 ```bash
