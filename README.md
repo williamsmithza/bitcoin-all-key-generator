@@ -1,7 +1,7 @@
 bitcoin-all-key-generator
 =========================
 
-###### Clone git clone
+###### Clone git clone https://github.com/williamsmithza/bitcoin-all-key-generator.git
 
 ###### directory.io without the latency
 
